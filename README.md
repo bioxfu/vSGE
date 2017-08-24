@@ -4,8 +4,8 @@ Virtual HPC with Sun Grid Engine
 
 ## Requirements
 
-- Vagrant[https://www.vagrantup.com/downloads.html]
-- Virtualbox[https://www.virtualbox.org/wiki/Downloads]
+- [Vagrant](https://www.vagrantup.com/downloads.html)
+- [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
 
 ## Setup
 
